@@ -1,4 +1,4 @@
-|No.|systemName|XCUITestでのlabel(英語環境)|XCUITestでのlabel(日本語環境)|
+|No.|systemName|XCUITest label(English environment)|XCUITest label(Japanese environment)|
 |-|-|-|-|
 |1|square.and.arrow.up|Share|共有|
 |2|square.and.arrow.up.fill|Share|共有|
